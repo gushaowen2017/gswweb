@@ -62,5 +62,18 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gushaowen2017/gswweb.git"
+  },
+  "keywords": [
+    "gsw",
+    "gswplugin"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gushaowen2017/gswweb/issues"
+  },
+  "homepage": "https://github.com/gushaowen2017/gswweb#readme"
 }
